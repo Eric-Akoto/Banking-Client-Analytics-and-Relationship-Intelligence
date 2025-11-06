@@ -6,8 +6,6 @@ The project leverages Power BI for interactive visualization and data modeling t
 
 <img width="1025" height="574" alt="screenshot 1" src="https://github.com/user-attachments/assets/502db786-09f2-47ac-94f5-8bcf6a1b7e7f" />
 
-
-
 ## Problem Statement
 Financial institutions handle massive volumes of client data spanning demographics, financial behavior, account activity, and relationship management. However, this data is often fragmented across systems, limiting its use in strategic decision-making.\
 As a result, banks face challenges in identifying high-value clients, managing risks, and optimizing advisor performance.
@@ -99,7 +97,32 @@ The objectives of this project are to:\
   - Interactive dashboards with slicers were built to reveal insights into deposits, loans, income distribution, and engagement.
 
 ## Analytical Insights
-**Key Performance Indicators**
- **- Total Clients:** 2,940 Clients
- **- Total Deposit:** Approximately $3.77bn
- **- Total Loan:** Approximately $4.38bn
+**Key Performance Indicators**\
+ **- Total Clients:** 2,940 Clients\
+ **- Total Deposit:** Approximately $3.77bn\
+ **- Total Loan:** Approximately $4.38bn\
+ **- Total Fees:** Approximately $158.19M\
+ **- Engagement Length:** Approximately 16.68M Days
+
+<img width="1026" height="572" alt="screenshot 2" src="https://github.com/user-attachments/assets/68238571-97fc-430a-bb56-c8ca133c4333" />
+
+**Insights/Findings**
+ - The Total Loan portfolio amounts to $4.38 billion, with the majority held in Business Lending ($2.60bn) and Bank Loan ($1.77bn).
+ - Total Deposit amount to approximately $3.77 billion, with Bank Deposit being the largest component ($2.01bn).
+ - From the charts, Total Loan fluctuate throughout the year, with significant peaks in March, October, and December. The highest performance occurs in December, while February and May are the weakest months. Total Deposit also fluctuate throughout the year, with significant peaks in July, August, and October. The highest performance occur in August, while February and May are the weakest months.
+ - Gender-based analysis reveals that female clients contribute higher deposit ($1.90bn) and equal loan ($1.19bn) volumes to male clients ($1.87bn deposits, $1.19bn loans).
+ - High-income and long-tenure clients generate the majority of the bank’s profits.
+ - New and low-income clients contribute less financially but represent untapped potential for growth.
+ - The bank manages an extensive client base of over 2,900 clients, distributed across diverse demographic and geographic segments.
+ - European clients represent the dominant market, contributing approximately $1.6bn in total value. Asian and American clients follow closely, with aproximately $1.0bn and $0.6bn respectively, while African and Australian markets remain underdeveloped.
+
+<img width="1026" height="573" alt="screenshot 3" src="https://github.com/user-attachments/assets/8e5da2d3-d62f-44a0-a166-c0bcecf29f23" /><img width="1025" height="573" alt="screenshot 4" src="https://github.com/user-attachments/assets/93ad9730-77cf-4b01-814b-e7be07bfb2e9" />
+
+
+
+**Recommendations**
+ - Diversify loan offerings to increase consumer and small-business lending, reducing reliance on large business clients.
+ - Promote savings and fixed deposit products with competitive interest rates and loyalty bonuses to stabilize deposit bases and improve retention.
+ - Strengthen client retention programs targeting mid-tenure clients (5–10 years) to transition them into high-value, long-term relationships.
+ - Implement region-specific growth initiatives in African and Australian markets, focusing on awareness, accessibility, and product adoption.
+ - Launch targeted programs for male clients to increase participation in credit and investment products, possibly through microfinance and mentorship initiatives.
