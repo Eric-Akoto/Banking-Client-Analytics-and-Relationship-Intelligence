@@ -4,7 +4,8 @@ The Banking Client Analytics and Relationship Intelligence Project is a comprehe
 
 The project leverages Power BI for interactive visualization and data modeling to uncover key insights into client demographics, advisor performance, income segmentation, and product usage trends
 
-<img width="855" height="478" alt="screenshot 1" src="https://github.com/user-attachments/assets/0c470754-d3c6-48cf-a55d-45d4fc322635" />
+<img width="1025" height="574" alt="screenshot 1" src="https://github.com/user-attachments/assets/502db786-09f2-47ac-94f5-8bcf6a1b7e7f" />
+
 
 
 ## Problem Statement
@@ -98,3 +99,7 @@ The objectives of this project are to:\
   - Interactive dashboards with slicers were built to reveal insights into deposits, loans, income distribution, and engagement.
 
 ## Analytical Insights
+**Key Performance Indicators**
+ **- Total Clients:** 2,940 Clients
+ **- Total Deposit:** Approximately $3.77bn
+ **- Total Loan:** Approximately $4.38bn
