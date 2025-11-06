@@ -1,4 +1,13 @@
 # Banking Client Analytics and Relationship Intelligence: An Interactive Power BI Dashboard
+## Table Of Content
+   - [Project Overview](project-overview)
+   - [Problem Statement](problem-statement)
+   - [Dataset Details](dataset-details)
+   - [Objectives of the Project](objectives-of-the-project)
+   - [Processes](processes)
+   - [Analytical Insights & Recommendations](analytical-insights-&-recommendations)
+   - [Conclusion](conclusion)
+
 ## Project Overview
 The Banking Client Analytics and Relationship Intelligence Project is a comprehensive data-driven initiative designed to analyze the financial behaviors, demographic patterns, and relationship dynamics of banking clients. Using integrated datasets from multiple sources, including banking-client profiles, investment advisor assignments, gender classifications, and bank relationship performance, this project provides a holistic view of customer engagement and financial activity across different banking segments.
 
@@ -96,7 +105,7 @@ The objectives of this project are to:\
   - Created KPIs to track relevant metrics.
   - Interactive dashboards with slicers were built to reveal insights into deposits, loans, income distribution, and engagement.
 
-## Analytical Insights
+## Analytical Insights & Recommendations
 **Key Performance Indicators**\
  **- Total Clients:** 2,940 Clients\
  **- Total Deposit:** Approximately $3.77bn\
@@ -126,3 +135,8 @@ The objectives of this project are to:\
  - Strengthen client retention programs targeting mid-tenure clients (5–10 years) to transition them into high-value, long-term relationships.
  - Implement region-specific growth initiatives in African and Australian markets, focusing on awareness, accessibility, and product adoption.
  - Launch targeted programs for male clients to increase participation in credit and investment products, possibly through microfinance and mentorship initiatives.
+
+## Conclusion
+The combined findings from the datasets and Power BI analysis reveal that client engagement length, income segmentation, and advisor effectiveness are the most influential factors in determining overall banking performance.
+
+By implementing the above recommendations,the bank can significantly enhance profitability, customer satisfaction, and strategic agility.
