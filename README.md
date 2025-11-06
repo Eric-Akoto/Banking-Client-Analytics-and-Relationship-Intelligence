@@ -35,7 +35,7 @@ This table consists of 25 Columns and 3000 Rows, detailing the demographic and a
 | `Name` | String | Full name of the client. |
 | `Age` | Integer | Client’s age. |
 | `Location ID` | Integer | Code representing client’s regional or branch location. |
-| `Joined Bank` | Date (DD-MM-YYYY) | Date the client joined the bank. |
+| `Joined Bank` | Date | Date the client joined the bank. |
 | `Banking Contact` | String | Relationship manager assigned to the client. |
 | `Nationality` | String | Client’s nationality. |
 | `Occupation` | String | Client’s occupation or job title. |
