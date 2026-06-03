@@ -101,7 +101,8 @@ The objectives of this project are to:\
   - Created measures using DAX for KPIs.
 
 **Step 3: Analysis & Dashboard Creation**\
-  **Tools:** Power BI Visualization features
+  **Tools:** PowerPoint & Power BI Visualization features
+  - Created wireframe with PowerPoint.
   - Created KPIs to track relevant metrics.
   - Interactive dashboards with slicers were built to reveal insights into deposits, loans, income distribution, and engagement.
 
